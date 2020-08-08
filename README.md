@@ -1,4 +1,4 @@
-A Program for Aligning Sentences in Bilingual Corpora
+Implimentation for Aligning Sentences in Bilingual Corpora using gale-church algorithm
 ===========================================
 
 ## Introduction
